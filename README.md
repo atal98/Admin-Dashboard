@@ -1,4 +1,4 @@
-# Admin Dashboard
+# Admin Dashboard (Django & Reactjs)
 
 Imagine having your own digital command center, your Admin Dashboard, right at your fingertips. It's not just any dashboard—it's your go-to hub for navigating the intricacies of your online realm. From overseeing the big picture with the overview section to delving into the specifics of users, orders, delivery, and products, it's all neatly organized for your convenience.
 
