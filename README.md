@@ -4,6 +4,10 @@ Imagine having your own digital command center, your Admin Dashboard, right at y
 
 Picture this dashboard as the foundation of a building, crafted with the sturdy frameworks of Django and React.js. It's a work in progress. But even in its early stages, it's a valuable tool, especially for those who are just starting to explore its capabilities. So, whether you're a seasoned developer or a curious newcomer, this dashboard is here to help you chart your course in the digital landscape..
 
+## Preview
+
+![Preview](./img.png)
+
 ## Demo
 
 link to demo
