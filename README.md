@@ -10,8 +10,7 @@ Picture this dashboard as the foundation of a building, crafted with the sturdy 
 
 ## Demo
 
-link to demo
-(https://screenrec.com/share/Db9BWe4GE0)
+![](admin-dashboard.gif)
 
 ## Installation
 
